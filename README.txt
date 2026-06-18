@@ -1,7 +1,7 @@
 ﻿[MKWII] Neb's Music Pack
 
-*the folder "Neb_s Music Pack" holds the correctly-named BRSTMs
-*the folder "Other BRSTMs" contains BRSTMs whose names are the title and artist (if applicable) to the song
+*the folder "Neb_s Music Pack" holds the correctly-named BRSTMs.
+*the folder "Other BRSTMs" contains folders of BRSTMs. The folders label the song inside, and there may be variations. I made them to fit certain contexts, hence the names of the files themselves. But, use them however you like!
 
 **Here is a guide for how to name your BRSTMs. Mix and match from the "Other BRSTMs" if you so choose!
 Guide from https://mariokartwii.com/showthread.php?tid=275
